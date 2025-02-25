@@ -4,7 +4,7 @@
     font-style: normal;
 }
 
-haed {
+head {
     font-family: "Amiri", serif;
 }
 body {
@@ -146,7 +146,7 @@ input {
 }
 
 .submit {
-    background-image: linear-gradiant(#da99f2, #da99f2);
+    background-image: linear-gradient(#da99f2, #da99f2);
     background-repeat: no-repeat;
     background-size: 100% 0;
     border-radius: 5px;
